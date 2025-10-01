@@ -6,7 +6,7 @@
 Plugin for [Yazi](https://github.com/sxyazi/yazi) to preview markdown files with [glow](https://github.com/charmbracelet/glow). To install, run the below mentioned command:
 
 ```bash
-ya pack -a PepeRoConde/glow
+ya pkg add 'PepeRoConde/glow'
 ```
 
 then include it in your `yazi.toml` to use:
